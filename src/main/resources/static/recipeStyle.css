@@ -1,0 +1,27 @@
+.navFont{
+    font-family: Serif;
+}
+.jumbotron-fluid
+{
+    background-position:center;
+    color:blueviolet;
+    background-color:transparent;
+}
+
+.jumbotron-fluid h1, p{
+
+   border-radius:25px;
+}
+.galleryImage{
+    height:200px;
+    width:300px;
+}
+ul{
+    list-style-type:none;
+}
+.recipeBody{
+    background: linear-gradient(
+            rgba(0, 0, 0, 0.8),
+            rgba(0, 0, 0, 0.8)
+    ), url("gyro.jpg");
+}
